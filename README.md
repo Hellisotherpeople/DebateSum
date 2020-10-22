@@ -27,4 +27,14 @@ This is useful as the debaters who produce the evidence release their work every
 ```
 for f in *.docx; do pandoc "$f" -s -o "${f%.docx}.html5"; done
 ```
-*Step 3: install the dependencies for make_debate_dataset.py. Modify the folder and file locations as needed for your system, and run make_debate_dataset.py*
+*Step 3: install the dependencies for make_debate_dataset.py.
+
+```
+pip install -r requirements.txt
+```
+
+*Step 4: Modify the folder and file locations as needed for your system, and run make_debate_dataset.py*
+
+```
+python3 make_debate_dataset.py
+```
