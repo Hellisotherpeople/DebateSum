@@ -3,7 +3,7 @@ Corresponding code repo for the upcoming paper at ARGMIN 2020: "DebateSum: A lar
 
 The dataset is distributed as csv files. 
 
-A search engine over DebateSum (as well as some additional evidence not included in DebateSum) is available as (debate.cards)[http://debate.cards/]. It's very good quality and allows for the evidence to be viewed in the format that debaters use. 
+A search engine over DebateSum (as well as some additional evidence not included in DebateSum) is available as [debate.cards](http://debate.cards/). It's very good quality and allows for the evidence to be viewed in the format that debaters use. 
 
 # Data 
 
