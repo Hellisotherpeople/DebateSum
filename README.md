@@ -3,9 +3,11 @@ Corresponding code repo for the upcoming paper at ARGMIN 2020: "DebateSum: A lar
 
 The dataset is distributed as csv files. 
 
+A search engine over DebateSum (as well as some additional evidence not included in DebateSum) is available as (debate.cards)[http://debate.cards/]. It's very good quality and allows for the evidence to be viewed in the format that debaters use. 
+
 # Data 
 
-DebateSum consists of **187328** debate documents, arguements (abstractive summaries), extractive summaries, citations, and associated metadata organized by topic-year. 
+DebateSum consists of **187328** debate documents, arguements (abstractive summaries), extractive summaries, citations, and associated metadata organized by topic-year. This data is ready for analysis by NLP systems.
 
 ## Download
 All data is accesable in a parsed format organized by topic year [here](https://mega.nz/folder/ZdQGmK6b#-0hoBWc5fLYuxQuH25feXg)
