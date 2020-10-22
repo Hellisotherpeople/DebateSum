@@ -5,6 +5,7 @@ Corresponding code repo for the upcoming paper at ARGMIN 2020: "DebateSum: A lar
 
 ## Download
 All data is accesable in a parsed format organized by topic year [here](https://mega.nz/folder/ZdQGmK6b#-0hoBWc5fLYuxQuH25feXg)
+
 Addtionally, the trained word-vectors for [debate2vec](https://github.com/Hellisotherpeople/debate2vec) are also found in that folder. 
 
 ## Regenerating it yourself 
