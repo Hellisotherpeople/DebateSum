@@ -9,7 +9,7 @@ Addtionally, the trained word-vectors for [debate2vec](https://github.com/Hellis
 
 # Regenerating it yourself 
 
-*Step 1: Download all open evidence files from [Open Evidence](https://openev.debatecoaches.org/) and unzip them into a directory. The links are as follows: 
+*Step 1: Download all open evidence files from [Open Evidence](https://openev.debatecoaches.org/) and unzip them into a directory. The links are as follows:*
 
 * [2019](https://s3.amazonaws.com/openev/2019OpenEv.zip)    - Resolved: The United States federal government should substantially reduce Direct Commercial Sales and/or Foreign Military Sales of arms from the United States.
 * [2018](https://s3.amazonaws.com/openev/2018OpenEv.zip)    - Resolved: The United States federal government should substantially reduce its restrictions on legal immigration to the United States.
@@ -20,8 +20,8 @@ Addtionally, the trained word-vectors for [debate2vec](https://github.com/Hellis
 * [2013](https://s3.amazonaws.com/openev/2013OpenEv.zip)    - Resolved: The United States federal government should substantially increase its economic en-gagement toward Cuba, Mexico or Venezuela.
 
 
-*Step 2: Convert all evidence from docx files to html5 files using [pandoc](https://pandoc.org/) with this command: 
+*Step 2: Convert all evidence from docx files to html5 files using [pandoc](https://pandoc.org/) with this command:*
 ```
 for f in *.docx; do pandoc "$f" -s -o "${f%.docx}.html5"; done
 ```
-*Step 3: install the dependencies for make_debate_dataset.py. Modify the folder and file locations as needed for your system, and run make_debate_dataset.py 
+*Step 3: install the dependencies for make_debate_dataset.py. Modify the folder and file locations as needed for your system, and run make_debate_dataset.py*
