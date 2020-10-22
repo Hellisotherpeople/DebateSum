@@ -3,11 +3,13 @@ Corresponding code repo for the upcoming paper at ARGMIN 2020: "DebateSum: A lar
 
 # Data 
 
-## Already Generated 
+## Download
 All data is accesable in a parsed format organized by topic year [here](https://mega.nz/folder/ZdQGmK6b#-0hoBWc5fLYuxQuH25feXg)
 Addtionally, the trained word-vectors for [debate2vec](https://github.com/Hellisotherpeople/debate2vec) are also found in that folder. 
 
-# Regenerating it yourself 
+## Regenerating it yourself 
+
+This is useful as the debaters who produce the evidence release their work every year. Soon enough I will update to include the 2020-2021 topic. 
 
 *Step 1: Download all open evidence files from [Open Evidence](https://openev.debatecoaches.org/) and unzip them into a directory. The links are as follows:*
 
