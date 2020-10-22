@@ -45,3 +45,6 @@ pip install -r requirements.txt
 ```
 python3 make_debate_dataset.py
 ```
+
+# Credits 
+Huge thanks to [Arvind Balaji](https://github.com/arvind-balaji) for making debate.cards and being second author on this paper! 
