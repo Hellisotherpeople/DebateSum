@@ -1,9 +1,11 @@
 # DebateSum
 Corresponding code repo for the upcoming paper at ARGMIN 2020: "DebateSum: A large-scale argument mining and summarization dataset"
 
+The dataset is distributed as csv files. 
+
 # Data 
 
-DebateSum consists of **187328** debate documents, arguements, summaries, citations, and metadata organized by topic-year. 
+DebateSum consists of **187328** debate documents, arguements (abstractive summaries), extractive summaries, citations, and associated metadata organized by topic-year. 
 
 ## Download
 All data is accesable in a parsed format organized by topic year [here](https://mega.nz/folder/ZdQGmK6b#-0hoBWc5fLYuxQuH25feXg)
