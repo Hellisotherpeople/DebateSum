@@ -1,0 +1,4 @@
+python_docx==0.8.10
+numpy==1.18.4
+beautifulsoup4==4.9.3
+docx==0.2.4
