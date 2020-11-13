@@ -7,7 +7,7 @@ A search engine over DebateSum (as well as some additional evidence not included
 
 # Data 
 
-DebateSum consists of **187328** debate documents, arguements (abstractive summaries), extractive summaries, citations, and associated metadata organized by topic-year. This data is ready for analysis by NLP systems.
+DebateSum consists of **187328** debate documents, arguements (also can be thought of as abstractive summaries, or queries), word-level extractive summaries, citations, and associated metadata organized by topic-year. This data is ready for analysis by NLP systems.
 
 ## Download
 All data is accesable in a parsed format organized by topic year [here](https://mega.nz/folder/ZdQGmK6b#-0hoBWc5fLYuxQuH25feXg)
