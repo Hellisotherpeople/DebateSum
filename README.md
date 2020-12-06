@@ -5,6 +5,8 @@ Arxiv pre-print available here: https://arxiv.org/abs/2011.07251
 
 Check out the presentation date and time here: https://argmining2020.i3s.unice.fr/node/9
 
+Full paper as presented by the ACL is here: https://www.aclweb.org/anthology/2020.argmining-1.1/
+
 The dataset is distributed as csv files. 
 
 A search engine over DebateSum (as well as some additional evidence not included in DebateSum) is available as [debate.cards](http://debate.cards/). It's very good quality and allows for the evidence to be viewed in the format that debaters use. 
