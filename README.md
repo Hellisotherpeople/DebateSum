@@ -7,6 +7,8 @@ Check out the presentation date and time here: https://argmining2020.i3s.unice.f
 
 Full paper as presented by the ACL is here: https://www.aclweb.org/anthology/2020.argmining-1.1/
 
+Video of presentation at COLING 2020: https://underline.io/lecture/6461-debatesum-a-large-scale-argument-mining-and-summarization-dataset
+
 The dataset is distributed as csv files. 
 
 A search engine over DebateSum (as well as some additional evidence not included in DebateSum) is available as [debate.cards](http://debate.cards/). It's very good quality and allows for the evidence to be viewed in the format that debaters use. 
